@@ -1,0 +1,9 @@
+.producto img{
+    width: 50%;
+    border-radius: 5px;
+    border: 1px solid rgba(23, 22, 22, 0.082);}
+
+.producto p{
+    font-size: 18px;
+    font-weight: 300;
+}
