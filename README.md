@@ -2,7 +2,6 @@
 
 Este repositorio contiene el código fuente de una aplicación de comercio electrónico de indumentaria desarrollada en React. A continuación, se proporciona una descripción general de la estructura y funcionalidades clave del proyecto.
 
-## link https://majestic-salamander-af6b3f.netlify.app/
 
 ## Estructura del Proyecto
 
